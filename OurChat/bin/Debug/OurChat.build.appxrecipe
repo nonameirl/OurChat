@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FBI-VAN</Machine>
+    <WindowsUser>Jeremy</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fac5cccf-a654-4dae-adcd-b917aad3f260</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\bin\Debug\OurChat.exe">
+      <PackagePath>OurChat.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\Assets\fonts\BuxtonSketch.ttf">
+      <PackagePath>Assets\fonts\BuxtonSketch.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\Assets\fonts\Andy.ttf">
+      <PackagePath>Assets\fonts\Andy.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\bin\Debug\OurChat.xr.xml">
+      <PackagePath>OurChat.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\OurChat\OurChat\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
